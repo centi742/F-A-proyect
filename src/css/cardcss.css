@@ -1,0 +1,24 @@
+.Card-profile{
+  background: black;
+  width: 18em;
+  height: 20em;
+  border-radius: 10px;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  
+}
+.Card-profile .Layout-profile{
+  background: red;
+  width: 100%;
+  height: 3em;
+  border-top-left-radius: 10px;
+  border-top-right-radius: 10px;
+  
+}
+
+
+.Card-profile .Footer-profile{
+ border-top: 1px solid #eee;
+  
+}

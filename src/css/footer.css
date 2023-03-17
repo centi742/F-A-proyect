@@ -1,0 +1,47 @@
+.footer{
+     width: 100%;
+    height: 7em;
+    background-attachment: fixed;
+    background: rgb(33,37,41);
+}
+
+.firts-place{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    align-items: center;
+  
+}
+
+.logo-f{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    height: 100%;
+    width: 25%;
+   color: white;
+}
+.descrip{
+    width: 25%;
+    
+}
+
+.links-f{
+    display: flex;
+    justify-content: space-around;
+    width: 10%;
+    height: 100%;
+    color: white;
+    font-size: 1.5em;
+}
+
+.second-place{
+    color: darkgrey;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    padding-right: 3em;
+    font-weight: bold;
+    padding-left: 3em;
+}

@@ -1,0 +1,45 @@
+.ullinks{
+   /* background-color: brown;*/
+    width: 100%;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+   
+
+}
+.lilinks{
+    /*background-color: blue;*/
+    width: 100%;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+}
+
+.links{
+    text-decoration: none;
+    color: white;
+    font-family:Arial, Helvetica, sans-serif;
+    font-size: 16px;
+    line-height: 1.5em;
+    font-weight: 600;
+}
+
+.logo{
+    width: 100%;
+    height: 100px;
+    background-color: #212529;
+    color: white;
+    display:flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    
+}
+
+
+.boxing{
+    border: 4px solid white;
+    padding: 5px;
+    font-weight: bold;
+}
+
